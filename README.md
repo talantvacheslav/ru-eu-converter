@@ -10,6 +10,6 @@
 ## Пример работы
 ```mermaid
 graph LR
-A[съешь ещё этих мягких французских булок, да выпей чаю] -- Преобразуется в  --> B(cbeIIIb_eIIle_eTux_M9IrKux_FpaHuy3cKux_6yJI0K,_ga_BbIneu_4aIO)
+A[съешь ещё этих мягких французских булок, да выпей чаю] -- Преобразуется в  --> B(cbeIIIb_eIIle_eTux_M9IrKux_FpaHuy3cKux_6yJI0K, _ga_BbIneu_4aIO)
 
 ```
